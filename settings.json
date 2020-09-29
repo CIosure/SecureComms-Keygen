@@ -1,0 +1,14 @@
+{
+    "keyFileSettings": {
+        "singleKeyFile": false,
+        "encryptKeyFiles": true,
+        "keyFileNaming": "codenames",
+        "keyFileEncryption": {
+            "algorithm": "aes-256-cbc"
+        }
+    },
+    "keySettings": {
+        "keyType": "rsa",
+        "length": 4096
+    }
+}
